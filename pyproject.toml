@@ -1,6 +1,6 @@
 [project]
 name = "pitao"
-version = "0.1.0"
+dynamic = ["version"]
 description = "Python com palavras reservadas em Português"
 readme = "README.md"
 requires-python = ">=3.8"
@@ -36,11 +36,14 @@ pt2py = "pitao.pt2py:main"
 py2pt = "pitao.py2pt:main"
 
 [build-system]
-requires = ["hatchling"]
+requires = ["hatchling", "hatch-vcs"]
 build-backend = "hatchling.build"
 
 [tool.hatch.build.targets.wheel]
 packages = ["pitao"]
+
+[tool.hatch.version]
+source = "vcs"
 
 [dependency-groups]
 dev = [
