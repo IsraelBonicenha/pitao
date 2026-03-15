@@ -1,5 +1,9 @@
 # Pitão 🐍
 
+<p align="center">
+  <img src="pitao.jpg" alt="Pitão Logo" width="200"/>
+</p>
+
 **Python com palavras reservadas em Português!**
 
 Pitão é um preprocessador Python que permite escrever código usando palavras reservadas em Português. Inspirado no [Bython](https://github.com/mathialo/bython).
