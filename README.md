@@ -1,7 +1,7 @@
 # Pitão 🐍
 
 <p align="center">
-  <img src="pitao.jpg" alt="Pitão Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/ivancrneto/pitao/main/pitao.jpg" alt="Pitão Logo" width="200"/>
 </p>
 
 **Python com palavras reservadas em Português!**
@@ -24,9 +24,9 @@ uv sync
 
 ## Galeria
 
-![Sintaxe Básica](vscode-pitao/assets/pitao1.png)
-![Controle de Fluxo](vscode-pitao/assets/pitao2.png)
-![Classes e Funções](vscode-pitao/assets/pitao3.png)
+![Sintaxe Básica](https://raw.githubusercontent.com/ivancrneto/pitao/main/vscode-pitao/assets/pitao1.png)
+![Controle de Fluxo](https://raw.githubusercontent.com/ivancrneto/pitao/main/vscode-pitao/assets/pitao2.png)
+![Classes e Funções](https://raw.githubusercontent.com/ivancrneto/pitao/main/vscode-pitao/assets/pitao3.png)
 
 ## Exemplo de Código
 
