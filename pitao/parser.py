@@ -38,6 +38,8 @@ PORTUGUESE_TO_PYTHON = {
     # Async
     "assincrono": "async",
     "aguarde": "await",
+    # Builtins
+    "imprimir": "print",
     # Other keywords
     "como": "as",
     "afirme": "assert",
