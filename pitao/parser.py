@@ -38,8 +38,19 @@ PORTUGUESE_TO_PYTHON = {
     # Async
     "assincrono": "async",
     "aguarde": "await",
-    # Builtins
+    # Builtins - I/O
     "imprimir": "print",
+    "entrada": "input",
+    "abrir": "open",
+    # Builtins - Type conversion
+    "inteiro": "int",
+    "flutuante": "float",
+    "texto": "str",
+    "booleano": "bool",
+    "lista": "list",
+    "dicionario": "dict",
+    "conjunto": "set",
+    "tupla": "tuple",
     # Other keywords
     "como": "as",
     "afirme": "assert",
